@@ -29,6 +29,11 @@ Previously, I developed a healthcare platform to improve provider performance at
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white" />
 </p>
 
+## Projects
+Here are some of the projects I've worked on:
+
+- [FastAPI Hatch Template](https://github.com/cdragos/fastapi-hatch-template): A template for FastAPI projects using Hatch for environment management and packaging, with built-in support for async operations, database migrations, and static analysis.
+
 ## Open Source Contributions
 I contribute to open source projects, including:
 
